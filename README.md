@@ -7,6 +7,6 @@
 
 [CartoonGAN - my attempt to implement it](https://tobiassunderdiek.github.io/cartoon-gan/#tc1_1) <br><br>
 
-[instances_train2017.json](https://github.com/fizyr/keras-retinanet-test-data/blob/main/coco/annotations/instances_train2017.json) <br><br>
+
 
 
