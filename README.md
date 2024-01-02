@@ -35,3 +35,7 @@ Trong bài báo, các bức ảnh được tải về từ Flickr. Trong cài đ
 
 
 [**Code**](https://github.com/Experimenters1/Cartoonify-in-python/blob/main/test2.ipynb) <br><br>
+
+
+# Prepare to train within Google Colab
+
