@@ -21,3 +21,6 @@ Tôi thu thập phần dữ liệu hoạt hình cho việc triển khai mạng G
 
 ### 
 
+### Edge-smoothed version of cartoon images (Phiên bản hình ảnh hoạt hình có viền mượt mà)
+
+
