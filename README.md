@@ -39,3 +39,4 @@ Trong bài báo, các bức ảnh được tải về từ Flickr. Trong cài đ
 
 # Prepare to train within Google Colab
 
+[**Code**](https://github.com/Experimenters1/Cartoonify-in-python/blob/main/Last_file.ipynb) <br><br>
