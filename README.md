@@ -25,4 +25,5 @@ Tôi thu thập phần dữ liệu hoạt hình cho việc triển khai mạng G
 
 Để làm cho GAN học tốt hơn trong việc tạo ra các cạnh rõ ràng trong hình ảnh hoạt hình, mô hình được huấn luyện với phiên bản hình ảnh đã được làm mượt cạnh. Trong bài báo, các cạnh được phát hiện đầu tiên bởi phương pháp canny-edge, sau đó các cạnh được làm to ra và mượt mà hóa bằng phương pháp làm mượt gaussian. Trong cài đặt của tôi, tôi thực hiện phát hiện cạnh canny, phóng to cạnh và làm mờ gaussian với openCV, và tôi làm cho nền trắng trở nên trong suốt và dán lại các cạnh lên trên hình ảnh gốc với Pillow.<br><br>
 
+[**Code**](https://github.com/Experimenters1/Cartoonify-in-python/blob/main/test1.ipynb) <br><br>
 
