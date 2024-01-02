@@ -34,4 +34,4 @@ Trong bài báo, các bức ảnh được tải về từ Flickr. Trong cài đ
 ![image](https://github.com/Experimenters1/Cartoonify-in-python/assets/64000769/52ab20e2-22bc-4062-a7a3-251b7e894a0b) <br><br>
 
 
-[**Code**]() <br><br>
+[**Code**](https://github.com/Experimenters1/Cartoonify-in-python/blob/main/test2.ipynb) <br><br>
