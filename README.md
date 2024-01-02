@@ -29,5 +29,7 @@ Tôi thu thập phần dữ liệu hoạt hình cho việc triển khai mạng G
 
 ### Photos <br><br>
 
+Trong bài báo, các bức ảnh được tải về từ Flickr. Trong cài đặt của tôi, tôi cố gắng sử dụng bộ dữ liệu [**COCO**](), đặc biệt là danh mục người. Tôi lấy các bức ảnh cho bộ dữ liệu như sau: <br><br>
 
+![image](https://github.com/Experimenters1/Cartoonify-in-python/assets/64000769/52ab20e2-22bc-4062-a7a3-251b7e894a0b) <br><br>
 
