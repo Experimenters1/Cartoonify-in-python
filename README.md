@@ -27,3 +27,7 @@ Tôi thu thập phần dữ liệu hoạt hình cho việc triển khai mạng G
 
 [**Code**](https://github.com/Experimenters1/Cartoonify-in-python/blob/main/test1.ipynb) <br><br>
 
+### Photos <br><br>
+
+
+
