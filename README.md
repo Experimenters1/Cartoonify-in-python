@@ -3,6 +3,8 @@
 
 ## CartoonGAN: Generative Adversarial Networks for Photo Cartoonization paper with code <br><br>
 Arxiv<br><br>
+
+https://sci-hub.se/<br><br>
 ## stable diffusion <br><br>
 [**CartoonGAN.ipynb**](https://github.com/TobiasSunderdiek/cartoon-gan/blob/main/CartoonGAN.ipynb) <br><br>
 
