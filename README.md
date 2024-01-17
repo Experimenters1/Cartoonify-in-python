@@ -5,6 +5,8 @@
 Arxiv<br><br>
 
 https://sci-hub.se/<br><br>
+[**paper with code**](https://paperswithcode.com/) <br><br>
+
 ## stable diffusion <br><br>
 [**CartoonGAN.ipynb**](https://github.com/TobiasSunderdiek/cartoon-gan/blob/main/CartoonGAN.ipynb) <br><br>
 
