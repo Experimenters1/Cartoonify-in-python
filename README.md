@@ -5,6 +5,7 @@
 Arxiv<br><br>
 
 https://sci-hub.se/<br><br>
+https://scholar.google.com/<br><br>
 [**paper with code**](https://paperswithcode.com/) <br><br>
 
 ## stable diffusion <br><br>
