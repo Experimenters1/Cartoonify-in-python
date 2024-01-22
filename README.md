@@ -1,6 +1,8 @@
 # Cartoonify-in-python
 ## Cartoonify in python
 
+### Model generate text to image ai
+
 ## CartoonGAN: Generative Adversarial Networks for Photo Cartoonization paper with code <br><br>
 Arxiv<br><br>
 
